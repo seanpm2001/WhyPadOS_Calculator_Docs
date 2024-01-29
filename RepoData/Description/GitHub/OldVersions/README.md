@@ -1,0 +1,1 @@
+🍏️💾️📱️🧮️📖️ The official documentation source repository for the Calculator application included with the whyPadOS subsystem of WacOS, an open-source alternative to the iPadOS Calculator application. Part of the WacOS operating system project
